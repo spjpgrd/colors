@@ -2,7 +2,12 @@ const fs = require("fs");
 const path = require("path");
 const allColorScales = require("../index");
 
-const outputDir = require("../tsconfig.json").compilerOptions.outDir;
+const outputDir = (require("../tsconfig.json").compilerOptions.outDir);
+
+// Ensure the build directory exists
+if (!fs.existsSync(outputDir)) {
+  fs.mkdirSync(outputDir, { recursive: true });
+}
 
 const supportsP3AtRule = "@supports (color: color(display-p3 1 1 1))";
 const matchesP3MediaRule = "@media (color-gamut: p3)";
