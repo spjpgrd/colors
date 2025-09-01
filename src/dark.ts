@@ -1857,3 +1857,243 @@ export const orangeDarkP3A = {
   orangeA11: "color(display-p3 1 0.63 0.38)",
   orangeA12: "color(display-p3 0.98 0.883 0.775)",
 };
+
+export const winterDark = {
+  winter1: "#000000",
+  winter2: "#06141e",
+  winter3: "#03253e",
+  winter4: "#003357",
+  winter5: "#00426b",
+  winter6: "#0d517e",
+  winter7: "#196396",
+  winter8: "#1f77b4",
+  winter9: "#1d76b3",
+  winter10: "#20689c",
+  winter11: "#77c0fb",
+  winter12: "#caeaff",
+};
+
+export const winterDarkA = {
+  winterA1: "#00000000",
+  winterA2: "#33aaff1e",
+  winterA3: "#0d99ff3e",
+  winterA4: "#0096ff57",
+  winterA5: "#009eff6b",
+  winterA6: "#1ba4ff7e",
+  winterA7: "#2ba9ff96",
+  winterA8: "#2ca9ffb4",
+  winterA9: "#2aa8ffb3",
+  winterA10: "#35aaff9c",
+  winterA11: "#79c3fffb",
+  winterA12: "#caeaff",
+};
+
+export const winterDarkP3 = {
+  winter1: "oklch(0% 0.0249 244.6)",
+  winter2: "oklch(18.3% 0.0293 244.6)",
+  winter3: "oklch(25.7% 0.0596 244.6)",
+  winter4: "oklch(31.2% 0.0824 244.6)",
+  winter5: "oklch(36.5% 0.0914 244.6)",
+  winter6: "oklch(42% 0.0979 244.6)",
+  winter7: "oklch(48.1% 0.1075 244.6)",
+  winter8: "oklch(55% 0.124 244.6)",
+  winter9: "oklch(54.6% 0.124 244.6)",
+  winter10: "oklch(49.9% 0.1075 244.6)",
+  winter11: "oklch(78.2% 0.1125 244.6)",
+  winter12: "oklch(92.3% 0.0512 244.6)",
+};
+
+export const winterDarkP3A = {
+  winterA1: "color(display-p3 0 0 0 / 0)",
+  winterA2: "color(display-p3 0.3098 0.6902 1 / 0.114)",
+  winterA3: "color(display-p3 0.2196 0.6 1 / 0.236)",
+  winterA4: "color(display-p3 0.2157 0.5961 1 / 0.33)",
+  winterA5: "color(display-p3 0.2431 0.6275 1 / 0.408)",
+  winterA6: "color(display-p3 0.298 0.6588 1 / 0.479)",
+  winterA7: "color(display-p3 0.3373 0.6706 1 / 0.573)",
+  winterA8: "color(display-p3 0.3373 0.6706 1 / 0.687)",
+  winterA9: "color(display-p3 0.3333 0.6667 1 / 0.683)",
+  winterA10: "color(display-p3 0.3569 0.6784 1 / 0.597)",
+  winterA11: "color(display-p3 0.5529 0.7725 1 / 0.965)",
+  winterA12: "color(display-p3 0.8196 0.9216 1 / 0.993)",
+};
+
+export const springDark = {
+  spring1: "#000000",
+  spring2: "#0c140f",
+  spring3: "#11291b",
+  spring4: "#113924",
+  spring5: "#18482f",
+  spring6: "#20573a",
+  spring7: "#286846",
+  spring8: "#2e7c53",
+  spring9: "#28a56a",
+  spring10: "#0f985e",
+  spring11: "#5ed294",
+  spring12: "#b0f2ca",
+};
+
+export const springDarkA = {
+  springA1: "#00000000",
+  springA2: "#99ffc014",
+  springA3: "#6affa829",
+  springA4: "#4dffa239",
+  springA5: "#55ffa748",
+  springA6: "#5effaa57",
+  springA7: "#63ffac68",
+  springA8: "#5fffab7c",
+  springA9: "#3effa4a5",
+  springA10: "#1aff9e98",
+  springA11: "#72ffb4d2",
+  springA12: "#b9ffd5f2",
+};
+
+export const springDarkP3 = {
+  spring1: "oklch(0% 0.0133 157.4)",
+  spring2: "oklch(18.1% 0.0165 157.4)",
+  spring3: "oklch(25.6% 0.0398 157.4)",
+  spring4: "oklch(31% 0.0592 157.4)",
+  spring5: "oklch(36.1% 0.0683 157.4)",
+  spring6: "oklch(41.1% 0.076 157.4)",
+  spring7: "oklch(46.6% 0.0861 157.4)",
+  spring8: "oklch(52.7% 0.1 157.4)",
+  spring9: "oklch(64.1% 0.1388 157.4)",
+  spring10: "oklch(60.1% 0.1388 157.4)",
+  spring11: "oklch(78% 0.1388 157.4)",
+  spring12: "oklch(90.5% 0.0857 157.4)",
+};
+
+export const springDarkP3A = {
+  springA1: "color(display-p3 0 0 0 / 0)",
+  springA2: "color(display-p3 0.698 0.9961 0.7451 / 0.079)",
+  springA3: "color(display-p3 0.5765 1 0.702 / 0.157)",
+  springA4: "color(display-p3 0.502 1 0.6784 / 0.22)",
+  springA5: "color(display-p3 0.5373 1 0.6902 / 0.279)",
+  springA6: "color(display-p3 0.549 1 0.698 / 0.338)",
+  springA7: "color(display-p3 0.5647 1 0.7098 / 0.404)",
+  springA8: "color(display-p3 0.5569 1 0.7059 / 0.479)",
+  springA9: "color(display-p3 0.502 1 0.6824 / 0.64)",
+  springA10: "color(display-p3 0.4588 1 0.6588 / 0.589)",
+  springA11: "color(display-p3 0.6039 1 0.7412 / 0.812)",
+  springA12: "color(display-p3 0.7922 1 0.8549 / 0.942)",
+};
+
+export const summerDark = {
+  summer1: "#000000",
+  summer2: "#170e0d",
+  summer3: "#341311",
+  summer4: "#4a1413",
+  summer5: "#5b1d1b",
+  summer6: "#6c2a27",
+  summer7: "#843a37",
+  summer8: "#ab4d48",
+  summer9: "#b1524d",
+  summer10: "#a24440",
+  summer11: "#ff9890",
+  summer12: "#fad4cf",
+};
+
+export const summerDarkA = {
+  summerA1: "#00000000",
+  summerA2: "#ff9c9117",
+  summerA3: "#ff5e5434",
+  summerA4: "#ff45424a",
+  summerA5: "#ff524c5b",
+  summerA6: "#ff645d6c",
+  summerA7: "#ff716b84",
+  summerA8: "#ff736cab",
+  summerA9: "#ff766fb1",
+  summerA10: "#ff6b65a2",
+  summerA11: "#ff9890",
+  summerA12: "#ffd8d3fa",
+};
+
+export const summerDarkP3 = {
+  summer1: "oklch(0% 0.0114 24.99)",
+  summer2: "oklch(17.5% 0.0171 24.99)",
+  summer3: "oklch(23.7% 0.0535 24.99)",
+  summer4: "oklch(28.2% 0.0826 24.99)",
+  summer5: "oklch(32.7% 0.0921 24.99)",
+  summer6: "oklch(37.9% 0.0953 24.99)",
+  summer7: "oklch(44.8% 0.1028 24.99)",
+  summer8: "oklch(54% 0.1251 24.99)",
+  summer9: "oklch(55.7% 0.1251 24.99)",
+  summer10: "oklch(51.1% 0.1251 24.99)",
+  summer11: "oklch(78.4% 0.1251 24.99)",
+  summer12: "oklch(90% 0.0442 24.99)",
+};
+
+export const summerDarkP3A = {
+  summerA1: "color(display-p3 0 0 0 / 0)",
+  summerA2: "color(display-p3 0.9922 0.6314 0.5882 / 0.087)",
+  summerA3: "color(display-p3 0.9961 0.4392 0.3765 / 0.189)",
+  summerA4: "color(display-p3 1 0.3529 0.3098 / 0.267)",
+  summerA5: "color(display-p3 1 0.3922 0.3569 / 0.33)",
+  summerA6: "color(display-p3 1 0.4627 0.4196 / 0.393)",
+  summerA7: "color(display-p3 1 0.5059 0.4745 / 0.483)",
+  summerA8: "color(display-p3 1 0.5176 0.4784 / 0.624)",
+  summerA9: "color(display-p3 1 0.5294 0.4863 / 0.648)",
+  summerA10: "color(display-p3 1 0.4902 0.451 / 0.593)",
+  summerA11: "color(display-p3 1 0.651 0.6078 / 0.946)",
+  summerA12: "color(display-p3 1 0.8745 0.851 / 0.957)",
+};
+
+export const fallDark = {
+  fall1: "#000000",
+  fall2: "#14120b",
+  fall3: "#251f0c",
+  fall4: "#332905",
+  fall5: "#403405",
+  fall6: "#4e4113",
+  fall7: "#615222",
+  fall8: "#7b692c",
+  fall9: "#dbb730",
+  fall10: "#d0ac1e",
+  fall11: "#edca4e",
+  fall12: "#f5e7ba",
+};
+
+export const fallDarkA = {
+  fallA1: "#00000000",
+  fallA2: "#ffe68d14",
+  fallA3: "#ffd65325",
+  fallA4: "#ffcd1933",
+  fallA5: "#ffd01440",
+  fallA6: "#ffd53f4e",
+  fallA7: "#ffd85a61",
+  fallA8: "#ffda5c7b",
+  fallA9: "#ffd538db",
+  fallA10: "#ffd325d0",
+  fallA11: "#ffd954ed",
+  fallA12: "#fff0c2f5",
+};
+
+export const fallDarkP3 = {
+  fall1: "oklch(0% 0.0102 93.01)",
+  fall2: "oklch(18.2% 0.0141 93.01)",
+  fall3: "oklch(24.1% 0.033 93.01)",
+  fall4: "oklch(28.6% 0.0531 93.01)",
+  fall5: "oklch(32.8% 0.0634 93.01)",
+  fall6: "oklch(37.9% 0.0656 93.01)",
+  fall7: "oklch(44.4% 0.0698 93.01)",
+  fall8: "oklch(52.6% 0.0839 93.01)",
+  fall9: "oklch(78.9% 0.1483 93.01)",
+  fall10: "oklch(75.5% 0.1483 93.01)",
+  fall11: "oklch(84.6% 0.1442 93.01)",
+  fall12: "oklch(92.9% 0.0602 93.01)",
+};
+
+export const fallDarkP3A = {
+  fallA1: "color(display-p3 0 0 0 / 0)",
+  fallA2: "color(display-p3 0.9961 0.8941 0.5961 / 0.079)",
+  fallA3: "color(display-p3 0.9961 0.8588 0.4157 / 0.142)",
+  fallA4: "color(display-p3 0.9961 0.8353 0.2471 / 0.193)",
+  fallA5: "color(display-p3 1 0.8392 0.2431 / 0.244)",
+  fallA6: "color(display-p3 1 0.8549 0.3569 / 0.299)",
+  fallA7: "color(display-p3 1 0.8745 0.4431 / 0.373)",
+  fallA8: "color(display-p3 1 0.8863 0.451 / 0.471)",
+  fallA9: "color(display-p3 1 0.8627 0.3608 / 0.836)",
+  fallA10: "color(display-p3 1 0.8549 0.3216 / 0.793)",
+  fallA11: "color(display-p3 1 0.8784 0.4314 / 0.906)",
+  fallA12: "color(display-p3 1 0.949 0.7843 / 0.953)",
+};
