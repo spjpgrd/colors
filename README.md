@@ -49,7 +49,7 @@ For full documentation, visit [radix-ui.com/colors/docs](https://radix-ui.com/co
 
 - Colm Tuite ([@colmtuite](https://twitter.com/colmtuite))
 - Vlad Moroz ([@vladyslavmoroz](https://twitter.com/vladyslavmoroz))
-- **Modified by Seán Doran ([@spjpgrd](https://www.spjpgrd.com))**
+- Modified by Sean Doran ([@spjpgrd](https://www.spjpgrd.com))
 
 ## License
 
