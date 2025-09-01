@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": ".",
+    "outDir": "./build",
     "declarationDir": "types",
     "module": "esnext",
     "target": "ES2019",
