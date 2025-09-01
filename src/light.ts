@@ -1857,3 +1857,244 @@ export const orangeP3A = {
   orangeA11: "color(display-p3 0.76 0.34 0)",
   orangeA12: "color(display-p3 0.323 0.185 0.127)",
 };
+
+// Personal colors
+
+export const winter = {
+  winter1: "#fafdff",
+  winter2: "#f2f9ff",
+  winter3: "#e3f5ff",
+  winter4: "#d4edff",
+  winter5: "#c2e4ff",
+  winter6: "#add7fa",
+  winter7: "#92c6f1",
+  winter8: "#68afe8",
+  winter9: "#1d76b3",
+  winter10: "#0168a4",
+  winter11: "#1370ad",
+  winter12: "#193e5a",
+};
+
+export const winterA = {
+  winterA1: "#0099ff05",
+  winterA2: "#008aff0d",
+  winterA3: "#00a4ff1c",
+  winterA4: "#0195ff2b",
+  winterA5: "#008fff3d",
+  winterA6: "#0083f052",
+  winterA7: "#007adf6d",
+  winterA8: "#0078d997",
+  winterA9: "#0064a9e2",
+  winterA10: "#0067a4fe",
+  winterA11: "#0065a6ec",
+  winterA12: "#002948e6",
+};
+
+export const winterP3 = {
+  winter1: "oklch(99.3% 0.0061 244.6)",
+  winter2: "oklch(98% 0.0114 244.6)",
+  winter3: "oklch(96.1% 0.0273 244.6)",
+  winter4: "oklch(93.6% 0.0408 244.6)",
+  winter5: "oklch(90.3% 0.0534 244.6)",
+  winter6: "oklch(86.1% 0.0662 244.6)",
+  winter7: "oklch(80.6% 0.0823 244.6)",
+  winter8: "oklch(72.9% 0.1104 244.6)",
+  winter9: "oklch(54.6% 0.124 244.6)",
+  winter10: "oklch(49.9% 0.124 244.6)",
+  winter11: "oklch(52.6% 0.124 244.6)",
+  winter12: "oklch(35.1% 0.0654 244.6)",
+};
+
+export const winterP3A = {
+  winterA1: "color(display-p3 0.0235 0.5137 1 / 0.016)",
+  winterA2: "color(display-p3 0.0235 0.5137 0.9216 / 0.048)",
+  winterA3: "color(display-p3 0.0118 0.5647 0.9608 / 0.099)",
+  winterA4: "color(display-p3 0.0078 0.5059 0.949 / 0.15)",
+  winterA5: "color(display-p3 0.0039 0.4824 0.9451 / 0.212)",
+  winterA6: "color(display-p3 0.0039 0.451 0.8941 / 0.291)",
+  winterA7: "color(display-p3 0.0039 0.4118 0.8196 / 0.385)",
+  winterA8: "color(display-p3 0 0.3882 0.7922 / 0.526)",
+  winterA9: "color(display-p3 0 0.2941 0.5882 / 0.773)",
+  winterA10: "color(display-p3 0 0.2745 0.5451 / 0.828)",
+  winterA11: "color(display-p3 0 0.2863 0.5725 / 0.797)",
+  winterA12: "color(display-p3 0 0.1176 0.2392 / 0.863)",
+}
+
+export const spring = {
+  spring1: "#fbfefc",
+  spring2: "#f4fbf6",
+  spring3: "#e5f7eb",
+  spring4: "#d5f1df",
+  spring5: "#c3e9d1",
+  spring6: "#acdebf",
+  spring7: "#8dcfa7",
+  spring8: "#5cb985",
+  spring9: "#28a56a",
+  spring10: "#209760",
+  spring11: "#00824a",
+  spring12: "#1b3b29",
+};
+
+export const springA = {
+  springA1: "#00c04004",
+  springA2: "#00a32f0b",
+  springA3: "#00b13b1a",
+  springA4: "#00aa3d2a",
+  springA5: "#00a23c3c",
+  springA6: "#009a3b53",
+  springA7: "#00943b72",
+  springA8: "#009240a3",
+  springA9: "#00944ed7",
+  springA10: "#008849df",
+  springA11: "#00824a",
+  springA12: "#002410e4",
+};
+
+export const springP3 = {
+  spring1: "oklch(99.4% 0.0045 157.4)",
+  spring2: "oklch(98.2% 0.0095 157.4)",
+  spring3: "oklch(95.9% 0.0238 157.4)",
+  spring4: "oklch(93.3% 0.0379 157.4)",
+  spring5: "oklch(90% 0.0518 157.4)",
+  spring6: "oklch(85.7% 0.0674 157.4)",
+  spring7: "oklch(79.8% 0.0878 157.4)",
+  spring8: "oklch(71.4% 0.1178 157.4)",
+  spring9: "oklch(64.1% 0.1388 157.4)",
+  spring10: "oklch(60.1% 0.1322 157.4)",
+  spring11: "oklch(52.9% 0.138 157.4)",
+  spring12: "oklch(32.2% 0.0496 157.4)",
+};
+
+export const springP3A = {
+  springA1: "color(display-p3 0.0235 0.6745 0.0235 / 0.012)",
+  springA2: "color(display-p3 0.0235 0.6118 0.1216 / 0.04)",
+  springA3: "color(display-p3 0.0118 0.6157 0.1843 / 0.091)",
+  springA4: "color(display-p3 0.0078 0.6 0.1686 / 0.146)",
+  springA5: "color(display-p3 0.0039 0.5686 0.1725 / 0.208)",
+  springA6: "color(display-p3 0.0039 0.5373 0.1529 / 0.287)",
+  springA7: "color(display-p3 0.0039 0.502 0.1529 / 0.393)",
+  springA8: "color(display-p3 0 0.4824 0.1529 / 0.546)",
+  springA9: "color(display-p3 0 0.4706 0.1686 / 0.679)",
+  springA10: "color(display-p3 0 0.4196 0.1529 / 0.714)",
+  springA11: "color(display-p3 0 0.3608 0.1176 / 0.781)",
+  springA12: "color(display-p3 0 0.1059 0.0314 / 0.863)",
+}
+
+export const summer = {
+  summer1: "#fefcfc",
+  summer2: "#fdf8f8",
+  summer3: "#f9edec",
+  summer4: "#fbe0dd",
+  summer5: "#f6d3d0",
+  summer6: "#eec5c0",
+  summer7: "#e3b2ae",
+  summer8: "#d69b95",
+  summer9: "#b1524d",
+  summer10: "#a24440",
+  summer11: "#b1524d",
+  summer12: "#562926",
+};
+
+export const summerA = {
+  summerA1: "#aa000003",
+  summerA2: "#b7000007",
+  summerA3: "#af0e0013",
+  summerA4: "#e1170022",
+  summerA5: "#cf11002f",
+  summerA6: "#bb15003f",
+  summerA7: "#a70d0051",
+  summerA8: "#9d0f016a",
+  summerA9: "#8f0700b2",
+  summerA10: "#830600bf",
+  summerA11: "#8f0700b2",
+  summerA12: "#380400d9",
+};
+
+export const summerP3 = {
+  summer1: "oklch(99.4% 0.002 24.99)",
+  summer2: "oklch(98.3% 0.0052 24.99)",
+  summer3: "oklch(95.6% 0.0133 24.99)",
+  summer4: "oklch(92.8% 0.0298 24.99)",
+  summer5: "oklch(89.6% 0.0392 24.99)",
+  summer6: "oklch(85.7% 0.0473 24.99)",
+  summer7: "oklch(80.7% 0.0568 24.99)",
+  summer8: "oklch(74.5% 0.0719 24.99)",
+  summer9: "oklch(55.7% 0.1251 24.99)",
+  summer10: "oklch(51.1% 0.1251 24.99)",
+  summer11: "oklch(55.8% 0.1251 24.99)",
+  summer12: "oklch(34% 0.0672 24.99)",
+};
+
+export const summerP3A = {
+  summerA1: "color(display-p3 0.6745 0.0235 0.0235 / 0.012)",
+  summerA2: "color(display-p3 0.5804 0.0235 0.0235 / 0.028)",
+  summerA3: "color(display-p3 0.5843 0.0588 0.0078 / 0.075)",
+  summerA4: "color(display-p3 0.7294 0.098 0.0078 / 0.13)",
+  summerA5: "color(display-p3 0.6784 0.0706 0.0039 / 0.181)",
+  summerA6: "color(display-p3 0.6157 0.102 0.0039 / 0.244)",
+  summerA7: "color(display-p3 0.5529 0.0667 0.0039 / 0.314)",
+  summerA8: "color(display-p3 0.5216 0.0588 0.0039 / 0.408)",
+  summerA9: "color(display-p3 0.4863 0.0392 0 / 0.687)",
+  summerA10: "color(display-p3 0.4431 0.0314 0 / 0.734)",
+  summerA11: "color(display-p3 0.4863 0.0392 0 / 0.687)",
+  summerA12: "color(display-p3 0.1843 0.0157 0 / 0.844)",
+};
+export const fall = {
+  fall1: "#fefdf9",
+  fall2: "#fffbe7",
+  fall3: "#fff6b2",
+  fall4: "#ffed8a",
+  fall5: "#ffe362",
+  fall6: "#f8d55d",
+  fall7: "#e6c65c",
+  fall8: "#d3af23",
+  fall9: "#ffdd10",
+  fall10: "#ffd300",
+  fall11: "#947500",
+  fall12: "#453c1c",
+};
+
+export const fallA = {
+  fallA1: "#d5aa0006",
+  fallA2: "#ffd50018",
+  fallA3: "#ffe2004d",
+  fallA4: "#ffd80075",
+  fallA5: "#ffd2009d",
+  fallA6: "#f4bd00a2",
+  fallA7: "#d8a600a3",
+  fallA8: "#cca200dc",
+  fallA9: "#ffdb00ef",
+  fallA10: "#ffd300",
+  fallA11: "#947500",
+  fallA12: "#2e2400e3",
+};
+
+export const fallP3 = {
+  fall1: "oklch(99.3% 0.005 93.01)",
+  fall2: "oklch(98.8% 0.0269 93.01)",
+  fall3: "oklch(97.3% 0.0878 93.01)",
+  fall4: "oklch(95.1% 0.1233 93.01)",
+  fall5: "oklch(92.4% 0.1506 93.01)",
+  fall6: "oklch(88.1% 0.1425 93.01)",
+  fall7: "oklch(83.4% 0.1303 93.01)",
+  fall8: "oklch(76.4% 0.1483 93.01)",
+  fall9: "oklch(91.2% 0.2167 93.01)",
+  fall10: "oklch(88.2% 0.1951 93.01)",
+  fall11: "oklch(57.3% 0.1484 93.01)",
+  fall12: "oklch(35.7% 0.0489 93.01)",
+};
+
+export const fallP3A = {
+  fallA1: "color(display-p3 0.8392 0.6745 0.0235 / 0.024)",
+  fallA2: "color(display-p3 0.9569 0.8235 0.0118 / 0.087)",
+  fallA3: "color(display-p3 0.9725 0.8706 0.0039 / 0.271)",
+  fallA4: "color(display-p3 0.9725 0.8392 0.0039 / 0.408)",
+  fallA5: "color(display-p3 0.9647 0.8039 0 / 0.534)",
+  fallA6: "color(display-p3 0.9098 0.7137 0 / 0.557)",
+  fallA7: "color(display-p3 0.7961 0.6157 0 / 0.573)",
+  fallA8: "color(display-p3 0.7333 0.5765 0 / 0.734)",
+  fallA9: "color(display-p3 0.9647 0.8157 0 / 0.699)",
+  fallA10: "color(display-p3 0.9608 0.7725 0 / 0.718)",
+  fallA11: "color(display-p3 0.4902 0.3765 0 / 0.859)",
+  fallA12: "color(display-p3 0.1569 0.1216 0 / 0.871)",
+};
