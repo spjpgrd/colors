@@ -4,7 +4,7 @@
 
 **A gorgeous, accessible color system.**
 
-Based on Radix Colors, modified and enhanced by Seán Doran.
+Based on Radix Colors, modified and enhanced by Sean Doran.
 
 ---
 
